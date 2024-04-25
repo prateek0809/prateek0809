@@ -20,3 +20,4 @@ Let's connect and discuss how we can work together to make a significant differe
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prateek0809)
+- [prateeksingh0809@gmail.com](mailto:prateeksingh0809@gmail.com)
