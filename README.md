@@ -23,6 +23,7 @@ I'm looking forward to connecting with other professionals, mentors, and enthusi
 Let's connect and discuss how we can work together to make a significant difference in the fascinating area of technology and data science!
 
 ## Connect with Me
-- [GitHub](https://github.com/prateek0809)
 - [LinkedIn](https://www.linkedin.com/in/prateek0809)
+- [Leetcode](https://leetcode.com/u/prateek0809)
+- [Hackerrank](https://www.hackerrank.com/profile/prateek0809)
 - [prateeksingh0809@gmail.com](mailto:prateeksingh0809@gmail.com)
