@@ -1,23 +1,29 @@
-name: Generate Datas
+name: Generate Datas  # Name of the workflow
+
 on:
-  schedule: # execute every 12 hours
+  schedule:  # Schedule to run every 12 hours
     - cron: "* */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering from the Actions tab
+
 jobs:
   build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
+    name: Jobs to update datas  # Job name
+    runs-on: ubuntu-latest  # Operating system used for the workflow
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-  
+      # Step 1: Generate the Snake Animation
+      - uses: Platane/snk@master  # Uses the Platane's snk GitHub Action
+        id: snake-gif  # Unique ID for this step
+
         with:
-          github_user_name: prateek0809
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_user_name: YOUR_GITHUB_USERNAME  # Replace with your GitHub username
+          svg_out_path: dist/github-contribution-grid-snake.svg  # Path to save the generated SVG file
+
+      # Step 2: Publish the SVG to GitHub Pages
+      - uses: crazy-max/ghaction-github-pages@v2.1.3  # GitHub Action for publishing to GitHub Pages
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # Branch where the generated files will be committed
+          build_dir: dist  # Directory where the SVG file is located
+
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
