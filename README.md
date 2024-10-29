@@ -42,3 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek0809&" alt="prateek0809" /></p>
 
+### 🐍 A Snake Eating My Contribution Graph
+![Snake animation](https://github.com/prateek0809/prateek0809/raw/output/github-contribution-grid-snake.svg)
+
+
