@@ -16,7 +16,7 @@ jobs:
         id: snake-gif  # Unique ID for this step
 
         with:
-          github_user_name: YOUR_GITHUB_USERNAME  # Replace with your GitHub username
+          github_user_name: prateek0809  # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg  # Path to save the generated SVG file
 
       # Step 2: Publish the SVG to GitHub Pages
