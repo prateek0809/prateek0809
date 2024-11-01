@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Salesforce Development (SFDC), Data Analysis**
 
-- 📝 I regularly write articles on [https://medium.com/@prateek0809](https://medium.com/@prateek0809)
+- 📝 I regularly write articles on [Medium](https://medium.com/@prateek0809)
 
 - 💬 Ask me about **Salesforce Development, Python, Data Analysis, Machine Learning**
 
 - 📫 How to reach me **prateeksingh0809@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UlCHFiiiM6FJFylLpQ9yX64B-1lKP0Nm/view?usp=drive_link](https://drive.google.com/file/d/1UlCHFiiiM6FJFylLpQ9yX64B-1lKP0Nm/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UlCHFiiiM6FJFylLpQ9yX64B-1lKP0Nm/view?usp=drive_link)
 
 - ⚡ Fun fact <br> **✍️ I love sharing insights and knowledge through my blogs. <br>🎨 Enjoy enhancing problem-solving skills and exploring new tech tools.**
 
